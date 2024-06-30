@@ -1,6 +1,9 @@
-header hgroup {
-    text-align: center;
+#logo {
+    float: left;
+    margin-top: 10px;
+    margin-right: 10px;
 }
-header #logo {
-    margin-bottom: 10px;
+
+main.container {
+    clear: both;
 }
